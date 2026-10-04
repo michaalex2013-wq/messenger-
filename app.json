@@ -2,8 +2,12 @@
   "expo": {
     "name": "MyMessenger",
     "slug": "mymessenger",
+    "owner": "uigssfs-team",
     "version": "1.0.0",
     "orientation": "portrait",
-    "android": { "package": "com.mymessenger.app" }
+    "android": { "package": "com.mymessenger.app" },
+    "extra": {
+      "eas": { "projectId": "2291d438-79c9-4fff-8f45-17bcab877451" }
+    }
   }
 }
